@@ -1,0 +1,21 @@
+Notes for the project Delivery:
+
+-Implement a full Timer0 driver to support both Normal and Compare modes using interrupt and call-back.
+-Implement buzzer driver.
+
+-Update the I2C driver Initialization function with the configuration structure two members.
+-Other drivers should be same as the one used in the course sessions.
+-Use the layered model in both MCU projects.
+
+
+
+
+
+
+Done:
+
+-Update the UART driver Initialization function with the configuration structure four members.
+1- Normal mode or fast mode
+2- Asynchronous Operation of Synchronous Operation
+3- Parity Mode
+4- UCSZ Bits Settings
